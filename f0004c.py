@@ -1,0 +1,5 @@
+a = input('Kérek egy számot:')
+a = int(a)
+b = input('Kérek egy számot:')
+b =int(b)
+print('Az eredmény:',a*b)

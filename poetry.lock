@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "ccccccccccc"
+name = "b"
+optional = false
+python-versions = "*"
+version = "1.0.0"
+
+[metadata]
+content-hash = "ea7ae8c8c3159bf60901c76879f2678ead00799cf931413c4e76eda3a8458d77"
+python-versions = "^3.8"
+
+[metadata.files]
+b = [
+    {file = "b-1.0.0.zip", hash = "sha256:5c08abc11f817bd422700427c5aac1c640dd47f2c3549dba65ec8a1236368206"},
+]
